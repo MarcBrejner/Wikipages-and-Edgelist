@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"normalized":[{"from":"Wildebeest_(comics)","to":"Wildebeest (comics)"}],"pages":{"72110783":{"pageid":72110783,"ns":0,"title":"Wildebeest (comics)","revisions":[{"slots":{"main":{"contentmodel":"wikitext","contentformat":"text/x-wiki","*":"#REDIRECT [[Wildebeest (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

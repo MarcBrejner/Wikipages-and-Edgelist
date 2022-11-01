@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"normalized":[{"from":"El_Diablo_(comics)","to":"El Diablo (comics)"}],"pages":{"72110617":{"pageid":72110617,"ns":0,"title":"El Diablo (comics)","revisions":[{"slots":{"main":{"contentmodel":"wikitext","contentformat":"text/x-wiki","*":"#REDIRECT [[El Diablo (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

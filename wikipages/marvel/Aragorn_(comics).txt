@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"normalized":[{"from":"Aragorn_(comics)","to":"Aragorn (comics)"}],"pages":{"72120862":{"pageid":72120862,"ns":0,"title":"Aragorn (comics)","revisions":[{"slots":{"main":{"contentmodel":"wikitext","contentformat":"text/x-wiki","*":"#REDIRECT [[Aragorn (Marvel Comics)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

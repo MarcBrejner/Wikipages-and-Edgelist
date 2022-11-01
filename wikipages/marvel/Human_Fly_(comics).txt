@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"normalized":[{"from":"Human_Fly_(comics)","to":"Human Fly (comics)"}],"pages":{"72121034":{"pageid":72121034,"ns":0,"title":"Human Fly (comics)","revisions":[{"slots":{"main":{"contentmodel":"wikitext","contentformat":"text/x-wiki","*":"#REDIRECT [[Human Fly (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

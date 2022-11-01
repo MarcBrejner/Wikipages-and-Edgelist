@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"normalized":[{"from":"Gateway_(comics)","to":"Gateway (comics)"}],"pages":{"72121004":{"pageid":72121004,"ns":0,"title":"Gateway (comics)","revisions":[{"slots":{"main":{"contentmodel":"wikitext","contentformat":"text/x-wiki","*":"#REDIRECT [[Gateway (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

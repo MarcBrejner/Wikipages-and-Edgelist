@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"normalized":[{"from":"Grasshopper_(comics)","to":"Grasshopper (comics)"}],"pages":{"72120958":{"pageid":72120958,"ns":0,"title":"Grasshopper (comics)","revisions":[{"slots":{"main":{"contentmodel":"wikitext","contentformat":"text/x-wiki","*":"#REDIRECT [[Grasshopper (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

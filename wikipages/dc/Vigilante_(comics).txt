@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"normalized":[{"from":"Vigilante_(comics)","to":"Vigilante (comics)"}],"pages":{"72110747":{"pageid":72110747,"ns":0,"title":"Vigilante (comics)","revisions":[{"slots":{"main":{"contentmodel":"wikitext","contentformat":"text/x-wiki","*":"#REDIRECT [[Vigilante (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

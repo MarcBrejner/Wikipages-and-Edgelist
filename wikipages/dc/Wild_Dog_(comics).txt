@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"normalized":[{"from":"Wild_Dog_(comics)","to":"Wild Dog (comics)"}],"pages":{"72110775":{"pageid":72110775,"ns":0,"title":"Wild Dog (comics)","revisions":[{"slots":{"main":{"contentmodel":"wikitext","contentformat":"text/x-wiki","*":"#REDIRECT [[Wild Dog (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"normalized":[{"from":"Flex_(comics)","to":"Flex (comics)"}],"pages":{"72120990":{"pageid":72120990,"ns":0,"title":"Flex (comics)","revisions":[{"slots":{"main":{"contentmodel":"wikitext","contentformat":"text/x-wiki","*":"#REDIRECT [[Flex (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

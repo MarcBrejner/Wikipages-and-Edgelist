@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"normalized":[{"from":"Hindsight_(comics)","to":"Hindsight (comics)"}],"pages":{"72121029":{"pageid":72121029,"ns":0,"title":"Hindsight (comics)","revisions":[{"slots":{"main":{"contentmodel":"wikitext","contentformat":"text/x-wiki","*":"#REDIRECT [[Hindsight (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

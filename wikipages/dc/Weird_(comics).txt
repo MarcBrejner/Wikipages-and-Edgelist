@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"normalized":[{"from":"Weird_(comics)","to":"Weird (comics)"}],"pages":{"72110759":{"pageid":72110759,"ns":0,"title":"Weird (comics)","revisions":[{"slots":{"main":{"contentmodel":"wikitext","contentformat":"text/x-wiki","*":"#REDIRECT [[Weird (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"normalized":[{"from":"Digitek_(comics)","to":"Digitek (comics)"}],"pages":{"72121011":{"pageid":72121011,"ns":0,"title":"Digitek (comics)","revisions":[{"slots":{"main":{"contentmodel":"wikitext","contentformat":"text/x-wiki","*":"#REDIRECT [[Digitek (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

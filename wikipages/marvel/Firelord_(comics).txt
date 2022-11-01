@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"normalized":[{"from":"Firelord_(comics)","to":"Firelord (comics)"}],"pages":{"72120992":{"pageid":72120992,"ns":0,"title":"Firelord (comics)","revisions":[{"slots":{"main":{"contentmodel":"wikitext","contentformat":"text/x-wiki","*":"#REDIRECT [[Firelord (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

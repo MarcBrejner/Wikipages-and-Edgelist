@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"normalized":[{"from":"Whip_(comics)","to":"Whip (comics)"}],"pages":{"72110765":{"pageid":72110765,"ns":0,"title":"Whip (comics)","revisions":[{"slots":{"main":{"contentmodel":"wikitext","contentformat":"text/x-wiki","*":"#REDIRECT [[Whip (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

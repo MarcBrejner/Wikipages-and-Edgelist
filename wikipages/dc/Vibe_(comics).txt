@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"normalized":[{"from":"Vibe_(comics)","to":"Vibe (comics)"}],"pages":{"72110742":{"pageid":72110742,"ns":0,"title":"Vibe (comics)","revisions":[{"slots":{"main":{"contentmodel":"wikitext","contentformat":"text/x-wiki","*":"#REDIRECT [[Vibe (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

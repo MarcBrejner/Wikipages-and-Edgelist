@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"normalized":[{"from":"Guardsman_(comics)","to":"Guardsman (comics)"}],"pages":{"72147320":{"pageid":72147320,"ns":0,"title":"Guardsman (comics)","revisions":[{"slots":{"main":{"contentmodel":"wikitext","contentformat":"text/x-wiki","*":"#REDIRECT [[Guardsman (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

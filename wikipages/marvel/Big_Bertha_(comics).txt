@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"normalized":[{"from":"Big_Bertha_(comics)","to":"Big Bertha (comics)"}],"pages":{"72120911":{"pageid":72120911,"ns":0,"title":"Big Bertha (comics)","revisions":[{"slots":{"main":{"contentmodel":"wikitext","contentformat":"text/x-wiki","*":"#REDIRECT [[Big Bertha (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

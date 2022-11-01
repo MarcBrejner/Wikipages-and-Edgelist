@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"normalized":[{"from":"Blue_Shield_(comics)","to":"Blue Shield (comics)"}],"pages":{"72147323":{"pageid":72147323,"ns":0,"title":"Blue Shield (comics)","revisions":[{"slots":{"main":{"contentmodel":"wikitext","contentformat":"text/x-wiki","*":"#REDIRECT [[Blue Shield (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

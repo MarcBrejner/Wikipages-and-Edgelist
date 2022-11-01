@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"normalized":[{"from":"Corsair_(comics)","to":"Corsair (comics)"}],"pages":{"72120939":{"pageid":72120939,"ns":0,"title":"Corsair (comics)","revisions":[{"slots":{"main":{"contentmodel":"wikitext","contentformat":"text/x-wiki","*":"#REDIRECT [[Corsair (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

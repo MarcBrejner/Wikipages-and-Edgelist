@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"normalized":[{"from":"Doorman_(comics)","to":"Doorman (comics)"}],"pages":{"72120969":{"pageid":72120969,"ns":0,"title":"Doorman (comics)","revisions":[{"slots":{"main":{"contentmodel":"wikitext","contentformat":"text/x-wiki","*":"#REDIRECT [[Doorman (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

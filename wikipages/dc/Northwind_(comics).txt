@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"normalized":[{"from":"Northwind_(comics)","to":"Northwind (comics)"}],"pages":{"72110684":{"pageid":72110684,"ns":0,"title":"Northwind (comics)","revisions":[{"slots":{"main":{"contentmodel":"wikitext","contentformat":"text/x-wiki","*":"#REDIRECT [[Northwind (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}
